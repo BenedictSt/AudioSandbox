@@ -23,7 +23,7 @@
 
 | topic                   | link                                                                               |
 | ----------------------- | ---------------------------------------------------------------------------------- |
-| Common Audio Terms      | https://docs.omniverse.nvidia.com/kit/docs/carbonite/latest/docs/audio/Basics.html |
+| Common Audio Terms      | https://docs.omniverse.nvidia.com/kit/docs/carbonite/latest/docs/audio/Terms.html  |
 | Audio Processing Basics | https://docs.omniverse.nvidia.com/kit/docs/carbonite/latest/docs/audio/Basics.html |
 | Fourier Transform       | 3Blue1Brown https://www.youtube.com/watch?v=spUNpyF58BY                            |
 | Windowing               | https://www.dsprelated.com/freebooks/sasp/Effect_Windowing.html                    |
